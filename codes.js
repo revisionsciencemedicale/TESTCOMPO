@@ -82,6 +82,25 @@ window.USERS = {
 "KLAASSL19537": { levels: ["L1-Niveau Émergent"] },
 "BASCLAL12458": { levels: ["L1-Niveau Émergent"] },
 "TOKPAUL16002": { levels: ["L1-Niveau Émergent"] },
+"BOKOUSL10327": { levels: ["L1-Niveau Émergent"] },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -181,8 +200,27 @@ window.USERS = {
 "ATSARNL27188": { levels: ["L2-Niveau Ascendant"] },
 "NGUAYAL20196": { levels: ["L2-Niveau Ascendant"] },
 "SEKSOPL27909": { levels: ["L2-Niveau Ascendant"] },
+"TOTYAOL23374": { levels: ["L2-Niveau Ascendant"] },
 
-  //ACCES L3-Niveau Accompli SF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//ACCES L3-Niveau Accompli SF
 
   "FOFMARL33911": {levels: ["L3-Niveau Accompli SF"] },
   
@@ -376,7 +414,8 @@ window.UTILISATEURS_LOCAUX_INFOS = window.UTILISATEURS_LOCAUX_INFOS || {
   "FOFMARL33911": {nom: "FOFANA", prenom: "MARIAM", niveau: "L3-Niveau Accompli SF" },
 "BASCLAL12458": {nom: "BASSOLE", prenom: "CLAUDINE", niveau: "L1-Niveau Émergent"},
 "TOKPAUL16002": {nom: "TOKOU", prenom: "PAUL SAMUEL", niveau: "L1-Niveau Émergent"},
-
+"TOTYAOL23374": {nom: "TOTORI", prenom: "YAO JEAN PAUL", niveau: "L2-Niveau Ascendant"},
+"BOKOUSL10327": {nom: "BOKA", prenom: "OUSSO INES", niveau: "L1-Niveau Émergent"},
 
 
 };
