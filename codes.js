@@ -26,7 +26,6 @@ window.USERS = {
 
 
 //ACCES L1-Niveau Émergent
-"BRICO": {levels: ["L1-Niveau Émergent"] },
 "YAPACHL18103": {levels: ["L1-Niveau Émergent"] },
 "OUASALL13782": {levels: ["L1-Niveau Émergent"] },
 "SEKSONL13656": {levels: ["L1-Niveau Émergent"] },
@@ -424,7 +423,7 @@ window.UTILISATEURS_LOCAUX_INFOS = window.UTILISATEURS_LOCAUX_INFOS || {
 "TOTYAOL23374": {nom: "TOTORI", prenom: "YAO JEAN PAUL", niveau: "L2-Niveau Ascendant"},
 "BOKOUSL10327": {nom: "BOKA", prenom: "OUSSO INES", niveau: "L1-Niveau Émergent"},
 "YASCHAL11690": {nom: "YASSI", prenom: "CHADON RACHEL", niveau: "L1-Niveau Émergent"},
-"BRICO": {nom: "BRICO", prenom: "BRICO BRICO", niveau: "L1-Niveau Émergent"},
+
 
 
 
