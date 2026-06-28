@@ -209,6 +209,7 @@ window.USERS = {
 "SEKSOPL27909": { levels: ["L2-Niveau Ascendant"] },
 "TOTYAOL23374": { levels: ["L2-Niveau Ascendant"] },
 "DOUSALL22989" : { levels: ["L2-Niveau Ascendant"]},
+  "DOUSALL22989": { levels: ["L2-Niveau Ascendant"] },
 
 
 
