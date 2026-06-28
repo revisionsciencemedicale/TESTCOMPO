@@ -90,6 +90,7 @@ window.USERS = {
 "TOKPAUL16002": { levels: ["L1-Niveau Émergent"] },
 "BOKOUSL10327": { levels: ["L1-Niveau Émergent"] },
 "YASCHAL11690": { levels: ["L1-Niveau Émergent"] },
+"KOUALLL18508" : { niveau: ["L1-Niveau Émergent"] },				
 
 
 
@@ -424,7 +425,7 @@ window.UTILISATEURS_LOCAUX_INFOS = window.UTILISATEURS_LOCAUX_INFOS || {
 "BOKOUSL10327": {nom: "BOKA", prenom: "OUSSO INES", niveau: "L1-Niveau Émergent"},
 "YASCHAL11690": {nom: "YASSI", prenom: "CHADON RACHEL", niveau: "L1-Niveau Émergent"},
 "DOUSALL22989" : { nom: "DOUMBIA", prenom: "SALIMATA", niveau: "L2-Niveau Ascendant" },				
-
+"KOUALLL18508" : { nom: "KOUASSI", prenom: "ALLOU ORNELA REINE", niveau: "L1-Niveau Émergent" },				
   
 
 
