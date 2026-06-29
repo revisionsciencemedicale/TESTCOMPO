@@ -209,8 +209,8 @@ window.USERS = {
 "SEKSOPL27909": { levels: ["L2-Niveau Ascendant"] },
 "TOTYAOL23374": { levels: ["L2-Niveau Ascendant"] },
 "DOUSALL22989" : { levels: ["L2-Niveau Ascendant"]},
-  "DOUSALL22989": { levels: ["L2-Niveau Ascendant"] },
-
+"DOUSALL22989": { levels: ["L2-Niveau Ascendant"] },
+"KOFAFFL27408" : { levels: ["L2-Niveau Ascendant"]},
 
 
 
@@ -427,7 +427,9 @@ window.UTILISATEURS_LOCAUX_INFOS = window.UTILISATEURS_LOCAUX_INFOS || {
 "YASCHAL11690": {nom: "YASSI", prenom: "CHADON RACHEL", niveau: "L1-Niveau Émergent"},
 "DOUSALL22989" : { nom: "DOUMBIA", prenom: "SALIMATA", niveau: "L2-Niveau Ascendant" },				
 "KOUALLL18508" : { nom: "KOUASSI", prenom: "ALLOU ORNELA REINE", niveau: "L1-Niveau Émergent" },				
-  
+"KOFAFFL27408" : { nom: "KOFFI", prenom: "AFFOUE ESTELLE", niveau: "L2-Niveau Ascendant" },				
+
+
 
 
 
